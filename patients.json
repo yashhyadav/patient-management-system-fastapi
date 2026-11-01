@@ -1,0 +1,52 @@
+{
+    "P001": {
+        "name": "Ananya Sharma",
+        "city": "Guwahati",
+        "age": 28,
+        "gender": "Female",
+        "height": 165,
+        "weight": 90.0,
+        "bmi": 33.06,
+        "verdict": "Obese"
+    },
+    "P002": {
+        "name": "Ravi Mehta",
+        "city": "Mumbai",
+        "age": 35,
+        "gender": "Male",
+        "height": 175,
+        "weight": 85,
+        "bmi": 27.76,
+        "verdict": "Overweight"
+    },
+    "P003": {
+        "name": "Sneha Kulkarni",
+        "city": "Pune",
+        "age": 22,
+        "gender": "Female",
+        "height": 160,
+        "weight": 45,
+        "bmi": 17.58,
+        "verdict": "Underweight"
+    },
+    "P004": {
+        "name": "string",
+        "city": "mumbai",
+        "age": 1,
+        "gender": "Male",
+        "height": 1.0,
+        "weight": 90.0,
+        "bmi": 900000.0,
+        "verdict": "Obese"
+    },
+    "P005": {
+        "name": "Neha Sinha",
+        "city": "Kolkata",
+        "age": 30,
+        "gender": "Female",
+        "height": 155,
+        "weight": 75,
+        "bmi": 31.22,
+        "verdict": "Obese"
+    }
+}
